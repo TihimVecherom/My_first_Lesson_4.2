@@ -100,26 +100,35 @@ p,ul,li{
     margin-top: 48px;
     width: 810px;
     height: 52px;
+    background-color: rosybrown;
 }
 
+/* .name_ul{
+    width: 810px;
+    height: 52px;
+    
+} */
+
 .list_ul{
-    margin-bottom: 24px;
     width: 600px;
-    height: 116px;
+    height: 114px;
+
 }
 
 .li_1{
     margin-top: 24px;
+
 }
 
 li{
     margin: 3px 0 0 32px;
     width: 600px;
     height: 26px;
+
 }
 
 .block_footer {
-    margin-top: 184px;
+    margin-top: 164px;
     width: 810px;
     height: 104px;  
 }
